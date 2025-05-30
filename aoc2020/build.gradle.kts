@@ -1,6 +1,6 @@
 plugins {
     application
-    alias(libs.plugins.kotlin.jvm)
+    alias(aoc2020Libs.plugins.kotlin.jvm)
 }
 val year = 2020
 
