@@ -4,7 +4,7 @@ plugins {
 
 dependencyResolutionManagement {
     versionCatalogs {
-        create("aoc2015Libs") {
+        create("aoc2020Libs") {
             from(files("gradle/libs.versions.toml"))
         }
     }
